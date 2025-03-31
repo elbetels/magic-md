@@ -32,14 +32,4 @@ To get started with Magic MD, follow these steps:
 
 ## Contributing
 
-We welcome contributions to Magic MD! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Contact
-
-For any questions or inquiries, please contact us at [natanimashenafi20@gmail.com](mailto:natanimashenafi20@gmail.com).
-
-Enjoy using Magic MD!
+We welcome contributions to Magic MD! If you have any ideas, suggestions, 
